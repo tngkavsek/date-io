@@ -1,7 +1,7 @@
 {
-  "name": "date-io",
-  "private": true,
-  "version": "1.0.0",
+  "name": "@tngkavsek/date-io",
+  "private": false,
+  "version": "1.1.0",
   "description": "Abstraction over common javascript date management libraries",
   "main": "index.js",
   "workspaces": [
