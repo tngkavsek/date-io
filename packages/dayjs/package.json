@@ -1,5 +1,5 @@
 {
-  "name": "@date-io/dayjs",
+  "name": "@tngkavsek/dayjs",
   "version": "2.13.2",
   "description": "Abstraction over common javascript date management libraries",
   "main": "build/index.js",
@@ -25,11 +25,11 @@
     "build": "rollup -c && tsc -p tsconfig.declaration.json"
   },
   "bugs": {
-    "url": "https://github.com/dmtrKovalenko/date-io/issues"
+    "url": "https://github.com/tngkavsek/date-io/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dmtrKovalenko/date-io"
+    "url": "https://github.com/tngkavsek/date-io"
   },
   "keywords": [
     "date",
